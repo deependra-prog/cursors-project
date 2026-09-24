@@ -1,0 +1,22 @@
+{
+  "Name": "2B Cursors",
+  "Files": {
+    "Arrow": "Arrow.cur",
+    "Help": "Help.cur",
+    "AppStarting": "Working.ani",
+    "Wait": "Busy.ani",
+    "Crosshair": "Crosshair.cur",
+    "IBeam": "IBeam.cur",
+    "NWPen": "NWPen.cur",
+    "No": "Unavailable.ani",
+    "SizeNS": "SizeNS.cur",
+    "SizeWE": "SizeWE.cur",
+    "SizeNWSE": "SizeNWSE.cur",
+    "SizeNESW": "SizeNESW.cur",
+    "SizeAll": "SizeAll.cur",
+    "UpArrow": "UpArrow.cur",
+    "Hand": "Hand.cur",
+    "Pin": "Pin.cur",
+    "Person": "Person.cur"
+  }
+}

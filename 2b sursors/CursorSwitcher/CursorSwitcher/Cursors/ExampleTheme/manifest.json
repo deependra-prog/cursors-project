@@ -1,0 +1,8 @@
+{
+  "Name": "Example Theme",
+  "Files": {
+    "AppStarting": "Working.ani",
+    "Wait": "Busy.ani",
+    "No": "Unavailable.ani"
+  }
+}
