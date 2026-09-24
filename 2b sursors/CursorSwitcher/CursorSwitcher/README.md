@@ -56,4 +56,4 @@ subfolder per theme, containing your `.cur`/`.ani` files plus a
 
 ## License
 
-Add your preferred license here before publishing (e.g. MIT).
+- me 
